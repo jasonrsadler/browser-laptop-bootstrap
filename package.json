@@ -78,6 +78,7 @@
   "homepage": "https://github.com/brave/browser-laptop-bootstrap#readme",
   "dependencies": {
     "commander": "^2.9.0",
-    "fs-extra": "^1.0.0"
+    "fs-extra": "^1.0.0",
+    "physical-cpu-count": "^2.0.0"
   }
 }
